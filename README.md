@@ -1,2 +1,2 @@
 # mathmodels
-An R htmlwidgets package using mathmodels.js
+A collection of htmlwidgets to illustrate various mathematical models

@@ -1,0 +1,17 @@
+---
+title: "Getting started with mathmodels"
+author: "Simon Frost"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Getting Started with mathmodels}
+  %\VignetteEngine{knitr::rmarkdown}
+  \usepackage[utf8]{inputenc}
+---
+
+This vignette provides an introduction to `mathmodels` and also demonstrates how to use `mahmodels` within a [`rmarkdown`](http://rmarkdown.rstudio.com/) document.
+
+```{r,echo=FALSE}
+library(mathmodels)
+```
+
